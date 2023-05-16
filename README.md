@@ -1,7 +1,5 @@
 ﻿# Localisation and Maze Navigation
 
-Author : [Srujan Gowdru Lingaraju](mailto:gowdr002@umn.edu)
-
 <video src="images/Epuck_Maze_Navigation.mp4" controls title="Title" style = "width: 50%; height: 50%;" ></video>
 
 ## World Setup
